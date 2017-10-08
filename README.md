@@ -8,7 +8,7 @@ Type daniel on the screen.
 
 ## Demo
 
-## [Key Sequence](https://danielgarciaguillen.github.io/customplayer/)
+## [Key Sequence](https://danielgarciaguillen.github.io/keysequence/)
 
 
 
